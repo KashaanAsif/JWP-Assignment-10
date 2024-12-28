@@ -32,7 +32,7 @@ function App() {
           </form>
         </div>
 
-        <img src="/src/assets/login.jpg" alt="Image failed to load" />
+        <img src="/src/Images/login.jpg" alt="Image failed to load" />
       </div>
     </div>
   );
